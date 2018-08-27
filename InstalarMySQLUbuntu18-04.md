@@ -40,3 +40,6 @@ Se estiver então saia do MySQL:
 >exit
 
 Pronto, agora você conseguirá acessar com o MySQL workbench ou PHPMyAdmin ou o cliente se sua preferencia.
+
+>Atenção! Se você já tiver configurado com senha precisará executar o MySQL com o comando abaixo:
+>mysql -u root -p
